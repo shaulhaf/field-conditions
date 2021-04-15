@@ -1,5 +1,5 @@
 # field-conditions
-A Laravel Nova field.Hello
+A Laravel Nova field
 
             FieldConditions::make([
               [
